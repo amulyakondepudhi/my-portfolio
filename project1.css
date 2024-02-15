@@ -1,0 +1,75 @@
+.body{
+    text-align:center;
+}
+nav ul li{
+    display: inline;
+    padding: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 15px;
+    color: bisque;
+}
+header h1{
+    color: aliceblue;
+}
+header{
+    background-color: black;
+    padding: 20px; 
+    text-align:center;
+}
+header h2{
+    color: aliceblue;
+    text-align: center;
+}
+#bio pre{
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5px;
+}
+#portfolio{
+    padding: 20px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#portfolio pre{
+    font-size: 20px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#bio h1{
+    text-align: center;
+}
+footer p{
+    background-color: rgb(231, 178, 178);
+    text-align: center;
+}
+main h2{
+    text-align: center;
+}
+#contact p{
+    text-align: center;
+}
+#skills ul li{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.home1{
+    text-align: center;
+}
+.home1{
+    justify-content: center;
+    display: flex;
+}
+#Home img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    justify-content: center;
+    display: flex;
+}
+#home p{
+    justify-content: center;
+    display: flex;
+}
